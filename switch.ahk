@@ -42,28 +42,3 @@ MouseMove, 960, 540
 return
 
 
-F2::
-MouseClick, left, 219, 62
-sleep, 200
-MouseClick, left, 770, 830
-sleep, 200
-sendraw, I
-sleep, 200
-sendInput, {ENTER}
-sleep, 200
-sendraw, AM
-sleep, 200
-sendInput, {ENTER}
-sleep, 200
-sendraw, A
-sleep, 200
-sendInput, {ENTER}
-sleep, 200
-sendraw, Student
-sleep, 200
-sendInput, {ENTER}
-sleep, 200
-
-
-return
-
